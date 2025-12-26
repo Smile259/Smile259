@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently studying at Indo Global Colleges<br>🌱 I’m currently learning Python Libraries<br>💬 Ask me about web AI/ML
+🔭 I’m currently studying at Indo Global Colleges<br>🌱 I’m currently learning Python Libraries<br>💬 Ask me about AI/ML
 
 
 ## 🌐 Socials:
