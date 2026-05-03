@@ -54,7 +54,7 @@ Learning next: `SQLite` → `PostgreSQL`
 
 ---
 
-## Live by quotes
+## Live by quote
 Learning and improving everyday is the key; no matter what be better everyday.
 
 ## Connect
