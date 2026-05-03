@@ -1,59 +1,62 @@
-# Hey, I'm Smile 👋
+# Hi, I'm Smile 👋
 
-Full Stack Developer in progress — building real things with code while exploring the intersection of AI and practical software engineering.
+> Full Stack Developer in progress · Exploring AI/ML · Building real things, not just tutorials.
 
 ---
 
-## What I'm Doing Right Now
+## What I'm Working On
 
-- Structuring my full stack learning path (frontend → backend → deployment)
-- Going deep into Python's data and ML ecosystem — NumPy, Pandas, and beyond
-- Building small, practical projects to solidify concepts rather than just following tutorials
-- Starting to explore how AI/ML fits into real-world applications
+- Structuring my full stack path: frontend → backend → deployment
+- Going deep into Python's data ecosystem — NumPy, Pandas, and beyond
+- Building small projects to apply concepts, not just consume them
+- Exploring how AI/ML integrates into real-world applications
 
 ---
 
 ## Tech Stack
 
 **Languages**
-- C, C++, Python
+`C` `C++` `Python`
 
 **Frontend**
-- HTML *(expanding into CSS and JavaScript)*
+`HTML` ← expanding into CSS & JavaScript
 
 **Backend**
-- Python *(building toward frameworks like Flask/FastAPI)*
+`Python` ← building toward Flask / FastAPI
 
 **Databases**
-- *(Currently learning — SQLite / PostgreSQL next)*
+Learning next: `SQLite` → `PostgreSQL`
 
 **Tools & DevOps**
-- Git, GitHub
+`Git` `GitHub`
 
 **AI / ML**
-- NumPy, Pandas
-- Exploring: scikit-learn, data preprocessing pipelines
+`NumPy` `Pandas` · Exploring: `scikit-learn`, data pipelines
 
 ---
 
 ## Focus Areas
 
-- Writing clean, maintainable code before chasing frameworks
-- Understanding how data flows through a full stack application
-- Applying ML concepts to projects that solve actual problems
-- Building in public and learning from feedback
+- Writing clean code before chasing frameworks
+- Understanding how data flows end-to-end in an application
+- Applying ML to problems that are actually worth solving
+- Learning in public — building, shipping, iterating
 
 ---
 
 ## Next Steps
 
-- [ ] Complete a full stack project (frontend + backend + database)
-- [ ] Build a small ML pipeline from raw data to predictions
-- [ ] Contribute to an open source project
-- [ ] Learn deployment basics — get something live
+- [ ] Ship a complete full stack project (frontend + backend + database)
+- [ ] Build an ML pipeline: raw data → trained model → output
+- [ ] Make my first open source contribution
+- [ ] Deploy something live — not just localhost
 
 ---
 
+Quotation: Learning and improving everyday is the key; no matter what be better everyday.
+
 ## Connect
 
-[LinkedIn](https://linkedin.com/in/smile-engg) · [X / Twitter](https://x.com/Smilee_24) · [engg.smile.techie@gmail.com](mailto:engg.smile.techie@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/smile-engg)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Smilee_24)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:s6255041@gmail.com)
