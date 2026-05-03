@@ -51,9 +51,11 @@ Learning next: `SQLite` → `PostgreSQL`
 - [ ] Make my first open source contribution
 - [ ] Deploy something live — not just localhost
 
+
 ---
 
-Quotation: Learning and improving everyday is the key; no matter what be better everyday.
+## Live by quotes
+Learning and improving everyday is the key; no matter what be better everyday.
 
 ## Connect
 
